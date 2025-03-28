@@ -18,7 +18,7 @@ Bestoon is a Django-based web application for managing expenses and incomes. It 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/django-bestoon.git
+    git clone https://github.com/shayandelbari/django-bestoon.git
     cd django-bestoon
     ```
 
